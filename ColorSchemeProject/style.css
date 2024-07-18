@@ -1,0 +1,53 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+
+  #head2 {
+    font-family: fantasy;
+    
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  #grey {
+    background: grey;
+    margin: 10px;
+  }
+  
+  #white {
+    background: white;
+    margin: 10px;
+  }
+  #blue {
+    background: blue;
+    margin: 10px;
+  }
+  #yellow {
+    background: yellow;
+    margin: 10px;
+  }
+  #purple {
+    background: purple;
+    margin: 10px;
+  }
+  #tomato {
+    background: tomato;
+    margin: 10px;
+  }
+  
