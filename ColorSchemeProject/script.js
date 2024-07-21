@@ -21,5 +21,11 @@ buttons.forEach( function(button) {
         if (e.target.id === 'tomato') {
             body.style.backgroundColor = e.target.id
         }
+        if (e.target.id === 'teal') {
+            body.style.backgroundColor = e.target.id
+        }
+        if (e.target.id === 'pink') {
+            body.style.backgroundColor = e.target.id
+        }
     })
 } )
